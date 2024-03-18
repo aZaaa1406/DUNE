@@ -40,11 +40,17 @@ body{
     width: 100%;
     background-color: #A88A5C;
     height: 150px;
+}
+.links{
+    display: grid;
+    place-items: center;
+    width: 100%;
+    margin-top: 45px;
     text-align: center;
 }
-.barraInf p{
+.links p{
     margin-top: 15px;
 }
-.barraInf a{
+.links a{
     color: #000;
 }
